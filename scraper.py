@@ -26,5 +26,6 @@ def scrape_quotes():
 
     print("Quotes scraped and saved to quotes.csv")
 
+
 if __name__ == "__main__":
     scrape_quotes()
